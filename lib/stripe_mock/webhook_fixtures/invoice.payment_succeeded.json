@@ -51,7 +51,7 @@
           },
           "proration": false,
           "quantity": 1,
-          "subscription": null,
+          "subscription": "sub_00000000000000",
           "subscription_item": "si_18ZfWyLrgDIZ7iq8fSlSNGIV",
           "type": "subscription"
         },
@@ -84,7 +84,7 @@
           },
           "proration": false,
           "quantity": 1,
-          "subscription": null,
+          "subscription": "sub_00000000000000",
           "subscription_item": "si_18ZfWyLrgDIZ7iq8fSlSNGIV",
           "type": "subscription"
         }],
