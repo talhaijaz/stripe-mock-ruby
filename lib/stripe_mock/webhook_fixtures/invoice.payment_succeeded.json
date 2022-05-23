@@ -27,7 +27,7 @@
           "object": "line_item",
           "amount": 50,
           "currency": "eur",
-          "description": null,
+          "description": "test",
           "discountable": true,
           "livemode": true,
           "metadata": {},
@@ -60,7 +60,7 @@
           "object": "line_item",
           "amount": 50,
           "currency": "eur",
-          "description": null,
+          "description": "test",
           "discountable": true,
           "livemode": true,
           "metadata": {},
@@ -106,7 +106,9 @@
       "tax": null,
       "tax_percent": null,
       "total": 999,
-      "webhooks_delivered_at": 1464084258
+      "webhooks_delivered_at": 1464084258,
+      "invoice_pdf": "https://pay.stripe.com/invoice/invst_jutP25y1VqsvoxaxMLHRqVPm11",
+      "hosted_invoice_url": "https://pay.stripe.com/invoice/invst_jutP25y1VqsvoxaxMLHRqVPm11"    
     }
   }
 }

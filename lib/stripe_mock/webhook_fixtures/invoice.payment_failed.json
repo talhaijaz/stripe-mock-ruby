@@ -76,7 +76,8 @@
               "metadata": {}
             },
             "description": null,
-            "metadata": null
+            "metadata": null,
+            "subscription": "su_00000000000000"
           }
         ]
       },
